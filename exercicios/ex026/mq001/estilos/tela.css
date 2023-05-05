@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
 /*Estilo para telas*/
 
@@ -26,6 +26,8 @@ menu ul {
 }
 
 menu li {
+    background-color: rgb(75, 75, 75);
+    color: white;
     display: inline-block;
     padding: 10px;
 }
